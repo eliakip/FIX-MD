@@ -15,7 +15,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 <a href="https://github.com/mrfrank-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/gotartech?color=blue&style=flat-square"></a>
 <a href="https://github.com/gotartech/GOTAR-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/gotartech/GOTAR-XMD?color=blue&style=flat-square"></a>
 <a href="https://github.com/gotartech/GOTAR-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/gotartech/GOTAR-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/gotartech/GOTAR-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/GOTAR-XMD/GOTAR-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/gotartech/GOTAR-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/FIX-MD/FIX-MD?style=flat-square&color=green"></a>
 <a href="https://github.com/gotartech/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
