@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "𝙁𝙄𝙓 𝙈𝘿"
     }, 
       
     "PREFIX": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝙁𝙄𝙓 𝙈𝘿 🖤*"
    
      }, 
     
@@ -92,14 +92,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "509xxxxxx"
+      "value": "254xxxxxx"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
+      "value": "𝙁𝙄𝙓 𝙈𝘿"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*"
+      "value": "> *Powered By FIX Tech*"
     },
 
       "DELETE_LINKS": {
