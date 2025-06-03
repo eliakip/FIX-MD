@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['18494967948']
+  const ownerNumber = ['254745931715']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -68,7 +68,7 @@ const {
   //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/sessions/creds.json')) {
 if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
-const sessdata = config.SESSION_ID.replace("GOTAR~XMD~", '');
+const sessdata = config.SESSION_ID.replace("FIX~MD~", '');
 const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
 filer.download((err, data) => {
 if(err) throw err
@@ -111,9 +111,9 @@ const port = process.env.PORT || 9090;
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('GOTAR-XMD CONNECTED SUCCESSFULLY ✅')
+  console.log('FIX-MD CONNECTED SUCCESSFULLY ✅')
   
-  let up = `*Hello there GOTAR-XMD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet GOTAR-XMD WhatsApp Bot.\n\n *Thanks for using GOTAR-XMD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAOpMmAInPoTescPr0y\n\n- *YOUR PREFIX:* = ${prefix}\n\n- *BOT MODE:* = ${config.MODE}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/gotar/GOTAR-XMD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ \ud83d\udda4`;
+  let up = `*Hello there FIX-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet FIX-MD WhatsApp Bot.\n\n *Thanks for using FIX-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VbAOpMmAInPoTescPr0y\n\n- *YOUR PREFIX:* = ${prefix}\n\n- *BOT MODE:* = ${config.MODE}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/eliakip/FIX-MD\n\n> © 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝙛𝙞𝙭 𝙩𝙚𝙘𝙝 \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/82b8gr.jpg` }, caption: up })
   }
   })
@@ -201,7 +201,7 @@ const port = process.env.PORT || 9090;
   conn.sendMessage(from, { text: teks }, { quoted: mek })
   }
   const udp = botNumber.split('@')[0];
-    const jawad = ('18494967948', '50948702213', '18494967948');
+    const jawad = ('254745931715', '254745931715', '254745931715');
     let isCreator = [udp, jawad, config.DEV]
 					.map(v => v.replace(/[^0-9]/g) + '@s.whatsapp.net')
 					.includes(mek.sender);
@@ -248,7 +248,7 @@ const port = process.env.PORT || 9090;
 				}
  //================ownerreact==============
     
-if (senderNumber.includes("5090000000") && !isReact) {
+if (senderNumber.includes("2540000000") && !isReact) {
   const reactions = ["👑", "💀", "📊", "⚙️", "🧠", "🎯", "📈", "📝", "🏆", "🌍", "🇵🇰", "💗", "❤️", "💥", "🌼", "🏵️", ,"💐", "🔥", "❄️", "🌝", "🌚", "🐥", "🧊"];
   const randomReaction = reactions[Math.floor(Math.random() * reactions.length)];
   m.react(randomReaction);
