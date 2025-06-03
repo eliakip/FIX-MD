@@ -1,8 +1,8 @@
 {
-  "name": "FIX-MD",
-  "description": "Javascript WhatsApp bot made Fix Tech",
+  "name": "GOTAR-XMD",
+  "description": "Javascript WhatsApp bot made ɢᴏᴛᴀʀ ᴛᴇᴄʜ",
   "logo": "https://files.catbox.moe/82b8gr.jpg",
-  "keywords": ["FIX-MD"],
+  "keywords": ["GOTAR-XMD"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,13 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝙁𝙄𝙓 𝐌𝐃"
+      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
     }, 
       
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
-      "value": "."e
+      "value": "."
     },
     
     "MODE": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝙁𝙄𝙓 𝐌𝐃 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃 🖤*"
    
      }, 
     
@@ -92,14 +92,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254xxxxxx"
+      "value": "509xxxxxx"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝙁𝙄𝙓 𝐌𝐃"
+      "value": "𝐆𝐎𝐓𝐀𝐑 𝐗𝐌𝐃"
 
       }, 
 
@@ -138,7 +138,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "> *POWERED BY FIX MD*"
+      "value": "> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢᴏᴛᴀʀ ᴛᴇᴄʜ*"
     },
 
       "DELETE_LINKS": {
